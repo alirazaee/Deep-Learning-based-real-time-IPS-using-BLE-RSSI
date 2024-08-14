@@ -1,5 +1,5 @@
 
-# Deep Learning based real time Indoor Postioning System (IPS) using BLE RSSI
+# Deep Learning based real time Indoor Postioning System (IPS) using BLE-RSSI Signals
 
 
 ![Build Status](https://img.shields.io/github/workflow/status/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
