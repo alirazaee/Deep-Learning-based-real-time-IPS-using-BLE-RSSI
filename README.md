@@ -1,1 +1,5 @@
-![image](https://github.com/user-attachments/assets/f12eb558-710a-4731-aac0-3f08acb24538)
+Generate the App using Android Studio
+Can be tested on the Mobile Phone
+
+https://github.com/user-attachments/assets/2b7aa7e5-23d3-47ec-95fa-1ec5cb287fd9
+
