@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ListView
+        android:id="@+id/listViewBeacons"
+        android:layout_width="match_parent"
+        android:layout_height="232dp" />
+
+    <Button
+        android:id="@+id/buttonSelectBeacons"
+        android:layout_width="377dp"
+        android:layout_height="wrap_content"
+        android:text="Select Beacons" />
+
+    <TextView
+        android:id="@+id/textViewRSSI1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="RSSI for Beacon 1: N/A" />
+
+    <TextView
+        android:id="@+id/textViewRSSI2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="RSSI for Beacon 2: N/A" />
+
+    <TextView
+        android:id="@+id/textViewRSSI3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="RSSI for Beacon 3: N/A" />
+
+    <TextView
+        android:id="@+id/textViewRSSI4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="RSSI for Beacon 4: N/A" />
+
+    <Button
+        android:id="@+id/buttonPredict"
+        android:layout_width="377dp"
+        android:layout_height="wrap_content"
+        android:text="Predict" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Prediction result will appear here" />
+
+    <com.example.rssimodelapp.PredictionOverlayView
+        android:id="@+id/predictionOverlayView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewCoordinates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Predicted Coordinates: X: N/A, Y: N/A" />
+</LinearLayout>
