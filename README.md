@@ -1,5 +1,5 @@
 
-# Deep-Learning-based-real-time-IPS-using-BLE-RSSI
+# Deep Learning based real time IPS using BLE RSSI
 
 
 ![Build Status](https://img.shields.io/github/workflow/status/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
