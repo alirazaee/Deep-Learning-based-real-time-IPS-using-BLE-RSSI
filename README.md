@@ -2,9 +2,12 @@
 # Deep-Learning-based-real-time-IPS-using-BLE-RSSI
 
 
-![Build Status](https://img.shields.io/github/workflow/status/your-username/your-repo/CI)
-![License](https://img.shields.io/github/license/your-username/your-repo)
-![Issues](https://img.shields.io/github/issues/your-username/your-repo)
+![Build Status](https://img.shields.io/github/workflow/status/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
+/CI)
+![License](https://img.shields.io/github/license/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
+)
+![Issues](https://img.shields.io/github/issues/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
+)
 
 https://github.com/user-attachments/assets/2b7aa7e5-23d3-47ec-95fa-1ec5cb287fd9
 
@@ -27,9 +30,9 @@ A brief description of what this project does and who it's for.
 
 To install and run this project, follow these steps:
 
-bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI.git
+
+cd src
 ./gradlew build
 
 ## Usage
