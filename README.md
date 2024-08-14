@@ -7,12 +7,14 @@ readme_content = """
 ![License](https://img.shields.io/github/license/your-username/your-repo)
 ![Issues](https://img.shields.io/github/issues/your-username/your-repo)
 
+https://github.com/user-attachments/assets/2b7aa7e5-23d3-47ec-95fa-1ec5cb287fd9
+
 ## About
 
 A brief description of what this project does and who it's for.
 
 ![Demo](https://github.com/user-attachments/assets/2b7aa7e5-23d3-47ec-95fa-1ec5cb287fd9)
-https://github.com/user-attachments/assets/2b7aa7e5-23d3-47ec-95fa-1ec5cb287fd9
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -30,6 +32,38 @@ To install and run this project, follow these steps:
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ./gradlew build
+
+
+#### **Usage**
+- Show how to use the project. Add code snippets and examples.
+
+```markdown
+## Usage
+
+Here's how to use this project:
+
+```bash
+./gradlew run
+
+
+#### **Features**
+- Generate the APK and test in the real time.
+
+```markdown
+## Features
+
+- Can use 4 beacons at any location
+- Deep Learing based Model integrated inside the app
+- Real time location coordinate display
+
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
