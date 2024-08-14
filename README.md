@@ -3,7 +3,7 @@
 
 
 ![Build Status](https://img.shields.io/github/workflow/status/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
-/CI)
+)
 ![License](https://img.shields.io/github/license/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
 )
 ![Issues](https://img.shields.io/github/issues/alirazaee/Deep-Learning-based-real-time-IPS-using-BLE-RSSI
