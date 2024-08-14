@@ -1,6 +1,4 @@
-# Let's create a README.md file with the content based on the suggestions provided.
 
-readme_content = """
 # Project Title
 
 ![Build Status](https://img.shields.io/github/workflow/status/your-username/your-repo/CI)
